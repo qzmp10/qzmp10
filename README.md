@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qzmp10
-- 👀 I’m interested in learning to program sinnce 2022-03-21
+- 👀 I’m interested in learning to program since 2022-03-21
 - 🌱 I’m currently learning JavaScript, will move to Solidity
 - 💞️ I’m looking to collaborate on SMORT CONTRACTS
 - 📫 How to reach me DONT
